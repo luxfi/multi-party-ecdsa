@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="multi-party-ecdsa" width="880"></p>
+
 # Multi-party ECDSA
 
 This project is a Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).
